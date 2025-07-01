@@ -202,11 +202,10 @@ This project is organized with the following file structure:
 - Ram Kishore KV- Logisitic regression, Naive Bayes, Ensemble and Integration
 - San Kamien - Decision Trees
 
-## License
-
-[Specify your license here, e.g., MIT License, Apache 2.0, etc.]
+#
 
 ## Contact
 
 **Project Authors:** S. Kamien, R. Sairajath, C. Shashi Kumar, Ram Kishore KV
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/RamKishoreKV/Crises-Prediction-Scratch-ML
+)
