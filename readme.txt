@@ -94,6 +94,10 @@ Ensemble → Recall: 0.59
 Hennig, T., Varghese, R., & Iossifov, P. (2023). Predicting Financial Crises: The Role of Asset Prices. IMF Working Paper
 
 Reinhart, C., Rogoff, K., Trebesch, C. – Global Crises Dataset by Country
+
+
+
+
 | Name                                          | Contribution                                               |
 | --------------------------------------------- | -------------------------------------------------          |
 | **Ram Kishore KV*                             | Lead Developer (Logistic Regression, Ensemble,Integration) |
