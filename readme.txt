@@ -94,12 +94,12 @@ Ensemble → Recall: 0.59
 Hennig, T., Varghese, R., & Iossifov, P. (2023). Predicting Financial Crises: The Role of Asset Prices. IMF Working Paper
 
 Reinhart, C., Rogoff, K., Trebesch, C. – Global Crises Dataset by Country
-| Name                                          | Contribution                                      |
-| --------------------------------------------- | ------------------------------------------------- |
-| **Ram Kishore KV* | Lead Developer (Logistic Regression, Integration) |
-| S. Kamien                                     | Decision Tree, QA                                 |
-| R. Sairajath                                  | Report Drafting, Cleaning                         |
-| C. Shashi Kumar                               | Naive Bayes, Validation                           |
+| Name                                          | Contribution                                               |
+| --------------------------------------------- | -------------------------------------------------          |
+| **Ram Kishore KV*                             | Lead Developer (Logistic Regression, Ensemble,Integration) |
+| S. Kamien                                     | Decision Tree, QA                                          |
+| R. Sairajath                                  | Report Drafting, Cleaning                                  |
+| C. Shashi Kumar                               | Naive Bayes, Validation                                    |
 
 "Predicting crises isn't about perfection — it's about warning before the fall."
 ⭐ Star this repo if you’re impressed by pure Python ML from scratch!
